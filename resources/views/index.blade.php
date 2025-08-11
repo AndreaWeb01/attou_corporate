@@ -37,7 +37,7 @@
       <section class="p-t100 p-b100" id="departements" style="background-color: #f8f8ff;" class="section">
           <div class="container">
             <div class=" text-center ">
-                <h3 class="primary-text-color mb-3">Nos départements</h3>
+                <h3 class="primary-text-color mb-3">Nos filiales</h3>
             </div>
             <p class="normal-text m-b30 m-t30">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt 
@@ -47,7 +47,7 @@
             </p>
             <div class="row gx-5 gy-5">
                 <div class="col-sm-12 col-md-6 col-lg-6">
-                  <a href=""  style="text-decoration: none;">
+                  <a href="https://www.attouco.com/" target="_blank" style="text-decoration: none;">
                      <div class="card-custom p-a30" style="background-color: #cc0000; border-radius: 5px; padding: 20px 40px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1)">
                         <div class="d-flex align-items-center gap-4 mb-3">
                             <div class="logoE">
@@ -66,7 +66,7 @@
                   </a>  
                 </div>
                 <div class="col-sm-12 col-md-6 col-lg-6">
-                  <a href=""  style="text-decoration: none;">
+                  <a href="https://voyagedifiant.com/" target="_blank" style="text-decoration: none;">
                     <div class="card-custom p-a30" style="background-color: #7416C5; padding: 20px 40px; border-radius: 5px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1)">
                         <div class="d-flex align-items-center gap-4 mb-3">
                             <div class="logoE">
@@ -85,7 +85,7 @@
                   </a>
                 </div>
                 <div class="col-sm-12 col-md-6 col-lg-6 mb-md-5">
-                  <a href=""  style="text-decoration: none;">
+                  <a href="https://www.facebook.com/people/FIRME-de-lInformatique/61554997681433/" target="_blank"  style="text-decoration: none;">
                     <div class="card-custom p-a30" style="background-color: #0261CD; padding: 20px 40px; border-radius: 5px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1)">
                         <div class="d-flex align-items-center gap-4 mb-3">
                             <div class="logoE">
@@ -106,7 +106,7 @@
                 
                 </div>
                 <div class="col-sm-12 col-md-6 col-lg-6 mb-md-5">
-                    <a href=""  style="text-decoration: none;">
+                    <a href="https://www.fac-immo.com/" target="_blank"  style="text-decoration: none;">
                       <div class="card-custom " style="background-color: #cc0000; padding: 20px 40px; border-radius: 5px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1)">
                         <div class="d-flex align-items-center gap-4 mb-3">
                             <div class="logoE">

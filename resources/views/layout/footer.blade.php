@@ -5,10 +5,10 @@
     </div>
     <div class="row" style="background-color: #cc0000;">
     <div class="col-sm-12 col-md-6 col-lg-6">
-        <p class="p-a20 normal-text-white ">Tout droit réservé</p>
+        <p class="p-a20 normal-text-white ">Touts droits réservés</p>
     </div>
     <div class="col-sm-12 col-md-6 col-lg-6">
-        <p class="  p-a20 normal-text-white text-end">conçu par &copy; <a href="https://www.attouco.com/" target="_blank" style="color: white;">Firme attou & co</a></p> 
+        <p class="  p-a20 normal-text-white text-end">Conçu par &copy; <a href="https://www.attouco.com/" target="_blank" style="color: white;">Firme Attou & Co</a></p> 
     </div>
     </div>
 </section>

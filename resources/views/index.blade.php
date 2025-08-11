@@ -349,16 +349,16 @@
                     <div class="contact" style="background-color: #3D3D3D; padding: 30px 30px 80px 30px; border-radius: 10px;">
                       <h2 class="secondary-text-white m-b50 text-center" style="font-weight: 700; color: white;">NOS INFORMATIONS DE CONTACT</h2>
                       <div>
-                        <span class="secondary-text-white" ><i class="fas fa-map me-2" style="color: #cc0000;"></i>Angré Nouveau Chu</span>
+                        <span class="secondary-text-white" ><i class="fas fa-map me-2" style="color: #cc0000;"></i>Angré Nouveau CHU</span>
                       </div>
                       <div class="mt-4">
                         <span class="secondary-text-white"><i class="fas fa-envelope me-2" style="color: #cc0000;"></i>infos@attoucorporate.com</span>
                       </div>
                       <div class="mt-4">
-                        <span  class="secondary-text-white"><i class="fas fa-clock me-2" style="color: #cc0000;"></i>lundi au samedi de 8H30 à 17H30</span>
+                        <span  class="secondary-text-white"><i class="fas fa-clock me-2" style="color: #cc0000;"></i>Lundi au Samedi de 8H30 à 17H30</span>
                       </div>
                       <div class="mt-4">
-                        <span class="secondary-text-white"><i class="fas fa-phone me-2" style="color: #cc0000;"></i>+225 07 49 00 00 00</span>
+                        <span class="secondary-text-white"><i class="fas fa-phone me-2" style="color: #cc0000;"></i>+225 07 07 49 47 72 / 27 24 36 11 97</span>
                       </div>
                       <div class="mt-4 m-b70">
                         <span class="secondary-text-white">Nos réseaux sociaux <a href="" style="color: #cc0000;"><i class="fab fa-facebook-f ms-4" ></i></a> <a href="" style="color: #cc0000;"><i class="fab fa-linkedin-in ms-2"></i></a></span>
@@ -394,7 +394,7 @@
                             </div>
 
                             <div class="error">
-                            <input type="email" name="email" placeholder="Entrez votre Email" value="{{ old('email') }}">
+                            <input type="email" name="email" placeholder="Entrez votre email" value="{{ old('email') }}">
                             {{-- @error('email') <small style="color:red">{{ $message }}</small><br> @enderror --}}
                             </div>
 

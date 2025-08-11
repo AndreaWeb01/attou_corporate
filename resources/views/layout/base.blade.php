@@ -19,7 +19,7 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css" rel="stylesheet">
 
     <link rel="icon" href="{{ url('assets/image/attou-32x32.png') }}" type="image/png">
-    <title>Attou-corporate</title>
+    <title>Attou Corporate - L'Entreprise aux services des autres</title>
  </head>
  <body>
     <header>
